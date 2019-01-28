@@ -1,6 +1,7 @@
 # Project Name: Gold scheduler
 
-## Project summary
+## Project summary:
+Gold scheduler is a web app that help UCSB student to register classes. It makes register process easier by display the class schedule on a weekly schedule table at the same time while they are registering classes. Students can easily see the time conflict.
 
 ### One-sentence description of the project
 
