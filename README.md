@@ -1,13 +1,4 @@
-Update your `README.md` using the template below. We are specifically interested in the installation instructions (e.g., all the gems, how to load real or seed data, etc.). This sample README was developed for a Rails project, so you can swap the "Gems" section of the "Installation" instructions to include add-ons that are relevant to you.
-
-
-**Make sure to check out the repo anew (potentially on a loaned laptop) and test your installation instructions.**
-
-
-
-Provide a README file with the following information:
-
-# Project Name
+# Project Name: Gold scheduler
 
 ## Project summary
 
